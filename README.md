@@ -213,3 +213,5 @@ If using the VM, inside the simulator's `_data` or `/Contents` folder, edit `ros
 To find the ip of your VM, type `echo $(hostname -I)` into a terminal of your choice. **Be aware that the ip address of your VM can change. If you are experiencing problems, be sure to check that the VM's ip matches that of which you have in ros_settings.txt**
 
 **Note: Be sure to use at least V2.1.0 of the Udacity provided VM for this lab**
+
+
