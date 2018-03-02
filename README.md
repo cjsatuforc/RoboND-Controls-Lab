@@ -57,6 +57,9 @@ To run `hover_zn_tuner_node`:
 $ rosrun quad_controller hover_zn_tuner_node
 ```
 
+**Computed Params! kp:1.25, ki:0.67660243815, kd:1.539555**
+
+
 To run `twiddle_tuner_node`:
 ```
 $ rosrun quad_controller hover_twiddle_tuner_node
