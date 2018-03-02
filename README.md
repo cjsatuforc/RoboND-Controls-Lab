@@ -65,6 +65,10 @@ To run `twiddle_tuner_node`:
 $ rosrun quad_controller hover_twiddle_tuner_node
 ```
 
+**iterations: 75 params:**
+**[16.321494711390805, 2.305925823759639, 4.357894154076913]**
+**best_run: 790.167737961**
+
 Write down the parameters you came up with, as you will need them later, for the full positional controller!
 
 **Bonus Quesion:**
